@@ -6,11 +6,7 @@
 
 ~~cross~~ Syntax is `~~(content)~~`
 
-List here
-1.List one
-2.List two
-3.List three
-4.List four
+
 ---
 -bullet one
 -bullet two
@@ -18,6 +14,15 @@ List here
 Let's write link syntax
 [click here](https://www.youtube.com/ "Youtube Link")
 
+write code
 ```go
  fmt.Println("i am learning markdown santax")
 ```
+
+Table
+|S.No|Name|City|
+|---|---|---|
+|1|Rajan|Gorakhpur|
+|2|Vikash|Gorakhpur|
+
+>Hello! Guys This Black Box Syntax is `>(Content)`
