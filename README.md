@@ -28,12 +28,12 @@ Table
 > Hello! Guys This Black Box Syntax is `>(Content)`
 > how are You 
 
-###List
+### List
 1. A
 2. B
 3. C
 4. D
-###Bullet List
+### Bullet List
 * One
 * Two
 * Three
